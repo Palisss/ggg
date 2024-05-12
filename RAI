@@ -1,3 +1,5 @@
 mkdir my-ai-app
 cd my-ai-app
 pnpm init
+pnpm add ai @ai-sdk/openai zod dotenv
+pnpm add -D @types/node tsx typescript
